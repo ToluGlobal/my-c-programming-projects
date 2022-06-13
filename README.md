@@ -1,2 +1,3 @@
 # my-c-programming-projects
-These projects are written in the C programming language.
+## WELCOME
+Thank you for visiting my C-programming projects. These projects are written in the C programming language.
